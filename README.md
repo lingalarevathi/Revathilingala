@@ -15,3 +15,4 @@
 # Enter the discription of the task preferred not less than 500 words #
 
 # Output of the stack
+![Image](https://github.com/user-attachments/assets/d20c936f-b351-45fe-9ed8-
